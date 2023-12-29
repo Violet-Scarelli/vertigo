@@ -1,0 +1,16 @@
+name = "Vertigo"
+author = "Violet"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "991e79387e12b5e7378ec8ffcd7eecdad9b6937aacd4b1285bc681239c5f720f"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.23.0-beta.1"
+
+[options]
+acceptable-game-versions = ["1.19.2"]
