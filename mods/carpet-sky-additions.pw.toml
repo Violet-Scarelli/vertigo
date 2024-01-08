@@ -1,13 +1,13 @@
 name = "Carpet Sky Additions"
-filename = "carpetskyadditions-1.20.1-4.4.1.jar"
+filename = "carpetskyadditions-1.19.2-4.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3oX3JnAP/versions/XTxFvwxb/carpetskyadditions-1.20.1-4.4.1.jar"
+url = "https://cdn.modrinth.com/data/3oX3JnAP/versions/E8SjgX32/carpetskyadditions-1.19.2-4.2.0.jar"
 hash-format = "sha1"
-hash = "82b3e1ec7bff773bfa8769a4acc747492958d2e7"
+hash = "03b79575dd4fe5767bf8d5a1dbd96e67e4b6acf8"
 
 [update]
 [update.modrinth]
 mod-id = "3oX3JnAP"
-version = "XTxFvwxb"
+version = "E8SjgX32"

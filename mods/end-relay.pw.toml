@@ -1,0 +1,13 @@
+name = "The Ender Relay"
+filename = "enderrelay-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/78za3BHI/versions/127dORKS/enderrelay-1.0.2.jar"
+hash-format = "sha1"
+hash = "7243652dc21d4346d97ede586ec0d73a85caba82"
+
+[update]
+[update.modrinth]
+mod-id = "78za3BHI"
+version = "127dORKS"
